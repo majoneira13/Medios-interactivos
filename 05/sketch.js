@@ -17,7 +17,7 @@ var opacity2=250;
 // fondo
 var squareSide= 0;
 
-//Constantes estados de juego
+// estados de juego
 const STATE={
 play:0,
 pause:1,
