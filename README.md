@@ -7,3 +7,5 @@
 3.[movimiento](https://majoneira13.github.io/Medios-interactivos/03/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/03/sketch.js)
 
 4.[botones](https://majoneira13.github.io/Medios-interactivos/04.1/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/04.1/sketch.js)
+
+4.[snake](https://majoneira13.github.io/Medios-interactivos/05/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/05/sketch.js)
