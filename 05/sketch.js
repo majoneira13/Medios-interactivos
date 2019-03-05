@@ -231,7 +231,7 @@ function playerTwoMovement(keyPress){
    yJ2=yJ2;
   }
 }
-//funcion que determina el estado del juego
+//juego
 function defineState(gameState){
   switch(gameState){
    
