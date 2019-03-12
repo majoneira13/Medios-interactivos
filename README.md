@@ -1,6 +1,6 @@
 # Medios-interactivos
 
-1. [forma y color](https://majoneira13.github.io/Medios-interactivos/01/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/01/sketch.js)
+1.[forma y color](https://majoneira13.github.io/Medios-interactivos/01/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/01/sketch.js)
 
 2.[repeticion](https://majoneira13.github.io/Medios-interactivos/02) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/02/sketch.js)
 
@@ -10,4 +10,4 @@
 
 5.[snake](https://majoneira13.github.io/Medios-interactivos/05/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/05/sketch.js)
 
-6.[hora](https://majoneira13.github.io/Medios-interactivos/06.1/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/06.2/sketch.js)
+6.[hora](https://majoneira13.github.io/Medios-interactivos/06.2/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/06.2/sketch.js)
