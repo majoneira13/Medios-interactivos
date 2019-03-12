@@ -10,4 +10,4 @@
 
 5.[snake](https://majoneira13.github.io/Medios-interactivos/05/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/05/sketch.js)
 
-6.[hora](https://majoneira13.github.io/Medios-interactivos/06.1/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/06.1/sketch.js)
+6.[hora](https://majoneira13.github.io/Medios-interactivos/06.1/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/06.2/sketch.js)
