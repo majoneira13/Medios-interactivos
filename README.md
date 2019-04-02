@@ -16,4 +16,4 @@
 
 8.[Especies](https://majoneira13.github.io/Medios-interactivos/08/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/08/sketch.js)
 
-9.[Especies](https://majoneira13.github.io/Medios-interactivos/09/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/09/sketch.js)
+9.[Ecosistema](https://majoneira13.github.io/Medios-interactivos/09/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/09/sketch.js)
