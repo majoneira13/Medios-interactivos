@@ -19,3 +19,5 @@
 9.[Ecosistema](https://majoneira13.github.io/Medios-interactivos/9/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/9/sketch.js)
 
 10.[infografia](https://majoneira13.github.io/Medios-interactivos/Cancer/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/Cancer/sketch.js)
+
+11.[infografia](https://majoneira13.github.io/Medios-interactivos/10/) /[codigo](https://github.com/majoneira13/Medios-interactivos/blob/master/10/sketch.js)
